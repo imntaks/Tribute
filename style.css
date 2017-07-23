@@ -1,0 +1,20 @@
+​x  body {
+   margin: 0;
+   padding: 0;
+   background: url(https://dl.dropboxusercontent.com/s/axtjukaw9da2svv/foggy_birds.png?dl=0) repeat left top;
+   -ms-overflow-x: hidden;
+   overflow-x: hidden;
+   -ms-overflow-y: auto;
+   overflow-y: auto;
+   max-width: 100%;
+   
+ }
+ ​
+ .container-fluid {
+   margin: 0;
+   padding: 0;
+   max-width: 100%;
+   background: url(https://dl.dropboxusercontent.com/s/3dsj94g0189xriq/halfbutterfly-176133_1920_med.png?dl=0), url(https://dl.dropboxusercontent.com/s/91x1y86yok5pwdr/boat-.svg?dl=0), url(https://dl.dropboxusercontent.com/s/113g7w0dh848f76/birds-2281096_377_med.png?dl=0), url(https://dl.dropboxusercontent.com/s/2wox44kmeq05isd/musselsflipped-med.png?dl=0);
+   background-position: 100% 10.5%, -90% 28%, 100% 54.5%, 0 78%; 
+   background-size: 100px, 200px, 200px, 150px;
+   background-repeat: no-repeat;
